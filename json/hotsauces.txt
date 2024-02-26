@@ -1,0 +1,267 @@
+[
+{
+    "id": "HS001",
+    "name": "Tabasco Original",
+    "description": "lorem ipsum dolor",
+    "scovilleRating": 2200000,
+    "isLimited": true,
+    "isInStock": true,
+    "stockPrice": 12.50,
+    "sizeML": 350,
+    "productionDate": "2023-11-23",
+    "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/tabascoOriginal.jpg",
+    "heatLevel": "Mild",
+    "taste": ["Tangy", "Fresh", "Citrus"],
+    "peppers": ["Jalapeno", "Habanero", "Tabasco"],
+    "manufacturer": {
+      "id": "MF001",
+      "name": "TabascoFactory",
+      "yearFounded": 1868,
+      "location": "United States",
+      "products": ["Tabasco", "Peppers", "Mace"]
+    }
+  },
+  {
+    "id": "HS002",
+    "name": "Spicy Habanero Sauce",
+    "description": "A fiery blend of habanero peppers and secret spices.",
+    "scovilleRating": 1500000,
+    "isLimited": false,
+    "isInStock": true,
+    "stockPrice": 9.99,
+    "sizeML": 250,
+    "productionDate": "2023-10-15",
+    "imageURL": "https://github.com/LarsLauryssensStudent/imgHosting/blob/7876c8ee25d165d1d42838c5c00286730e9bd940/images/spicyHabaneroSauce.jpg",
+    "heatLevel": "Hot",
+    "taste": ["Bold", "Smoky", "Intense"],
+    "peppers": ["Habanero", "Cayenne", "Ghost Pepper"],
+    "manufacturer": {
+      "id": "MF001",
+      "name": "TabascoFactory",
+      "yearFounded": 1868,
+      "location": "United States",
+      "products": ["Tabasco", "Peppers", "Mace"]
+    }
+  },
+  {
+    "id": "HS003",
+    "name": "Mango Tango Salsa",
+    "description": "A tropical dance of ripe mangoes and zesty lime.",
+    "scovilleRating": 50000,
+    "isLimited": true,
+    "isInStock": false,
+    "stockPrice": 7.49,
+    "sizeML": 200,
+    "productionDate": "2023-08-05",
+    "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/mangoTangoSalsa.jpg",
+    "heatLevel": "Mild",
+    "taste": ["Sweet", "Tangy", "Refreshing"],
+    "peppers": ["Jalapeno", "Poblano", "Bell Pepper"],
+    "manufacturer": {
+      "id": "MF002",
+      "name": "FruitFusion",
+      "yearFounded": 1995,
+      "location": "Tropical Islands",
+      "products": ["Salsas", "Fruit Blends", "Smoothies"]
+    }
+  },
+  {
+    "id": "HS004",
+    "name": "Smoky Chipotle BBQ Sauce",
+    "description": "Rich and smoky barbecue flavor with chipotle kick.",
+    "scovilleRating": 80000,
+    "isLimited": false,
+    "isInStock": true,
+    "stockPrice": 6.75,
+    "sizeML": 300,
+    "productionDate": "2023-09-20",
+    "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/smokeyChipotleBBQ.jpg",
+    "heatLevel": "Medium",
+    "taste": ["Smoky", "Sweet", "Savory"],
+    "peppers": ["Chipotle", "Ancho", "Poblano"],
+    "manufacturer": {
+      "id": "MF002",
+      "name": "FruitFusion",
+      "yearFounded": 1995,
+      "location": "Tropical Islands",
+      "products": ["Salsas", "Fruit Blends", "Smoothies"]
+    }
+  },
+
+  {
+    "id": "HS005",
+    "name": "Fiery Ghost Pepper Sauce",
+    "description": "An intense heat experience with a hint of smokiness.",
+    "scovilleRating": 1000000,
+    "isLimited": false,
+    "isInStock": true,
+    "stockPrice": 8.99,
+    "sizeML": 200,
+    "productionDate": "2023-12-01",
+    "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/ghostPepperSauce.jpg",
+    "heatLevel": "Hot",
+    "taste": ["Smoky", "Spicy", "Intense"],
+    "peppers": ["Ghost Pepper", "Habanero", "Cayenne"],
+    "manufacturer": {
+      "id": "MF003",
+      "name": "SpiceFactory",
+      "yearFounded": 2000,
+      "location": "Mexico",
+      "products": ["Hot Sauces", "Spices", "Chili Powders"]
+    }
+      },
+      {
+        "id": "HS006",
+        "name": "Sweet Chili Sauce",
+        "description": "A perfect blend of sweetness and mild heat.",
+        "scovilleRating": 20000,
+        "isLimited": false,
+        "isInStock": true,
+        "stockPrice": 5.49,
+        "sizeML": 250,
+        "productionDate": "2023-11-15",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/sweetChiliSauce.jpg",
+        "heatLevel": "Mild",
+        "taste": ["Sweet", "Mild", "Tangy"],
+        "peppers": ["Bell Pepper", "Jalapeno", "Anaheim"],
+        "manufacturer": {
+          "id": "MF004",
+          "name": "SweetHeat",
+          "yearFounded": 2010,
+          "location": "Thailand",
+          "products": ["Sweet Sauces", "Chili Sauces", "Dips"]
+        }
+      },
+      {
+        "id": "HS007",
+        "name": "Garlic Sriracha Sauce",
+        "description": "A garlicky twist on the classic Sriracha sauce.",
+        "scovilleRating": 220000,
+        "isLimited": true,
+        "isInStock": false,
+        "stockPrice": 6.99,
+        "sizeML": 300,
+        "productionDate": "2023-10-30",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/garlicSrichacha.jpg",
+        "heatLevel": "Medium",
+        "taste": ["Garlicky", "Spicy", "Tangy"],
+        "peppers": ["Red Chili", "Cayenne", "Serrano"],
+        "manufacturer": {
+          "id": "MF005",
+          "name": "GarlicGoodness",
+          "yearFounded": 2005,
+          "location": "United States",
+          "products": ["Garlic Sauces", "Garlic Spices", "Dips"]
+        }
+      },
+      {
+        "id": "HS008",
+        "name": "Carolina Reaper Sauce",
+        "description": "Experience the world's hottest pepper in this fiery sauce.",
+        "scovilleRating": 2200000,
+        "isLimited": true,
+        "isInStock": true,
+        "stockPrice": 14.99,
+        "sizeML": 150,
+        "productionDate": "2023-12-10",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/carolinaReaperSauce.jpg",
+        "heatLevel": "Extreme",
+        "taste": ["Spicy", "Smoky", "Intense"],
+        "peppers": ["Carolina Reaper", "Ghost Pepper", "Scorpion Pepper"],
+        "manufacturer": {
+          "id": "MF006",
+          "name": "HeatWave",
+          "yearFounded": 1998,
+          "location": "United States",
+          "products": ["Hot Sauces", "Pepper Extracts", "Chili Powders"]
+        }
+      },
+      {
+        "id": "HS009",
+        "name": "Pineapple Habanero Sauce",
+        "description": "Tropical pineapple meets fiery habanero in this sweet and spicy sauce.",
+        "scovilleRating": 350000,
+        "isLimited": false,
+        "isInStock": true,
+        "stockPrice": 7.99,
+        "sizeML": 250,
+        "productionDate": "2023-11-20",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/pinappleHabanero.jpg",
+        "heatLevel": "Medium",
+        "taste": ["Sweet", "Tropical", "Spicy"],
+        "peppers": ["Habanero", "Jalapeno", "Bell Pepper"],
+        "manufacturer": {
+          "id": "MF002",
+          "name": "FruitFusion",
+          "yearFounded": 1995,
+          "location": "Tropical Islands",
+          "products": ["Salsas", "Fruit Blends", "Smoothies"]
+        }
+      },
+      {
+        "id": "HS010",
+        "name": "Lemon Pepper Hot Sauce",
+        "description": "A zesty sauce with a hint of citrus and a spicy kick.",
+        "scovilleRating": 50000,
+        "isLimited": false,
+        "isInStock": true,
+        "stockPrice": 5.99,
+        "sizeML": 200,
+        "productionDate": "2023-11-05",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/lemonHabaneroSauce.jpg",
+        "heatLevel": "Mild",
+        "taste": ["Zesty", "Citrusy", "Spicy"],
+        "peppers": ["Cayenne", "Bell Pepper", "Poblano"],
+        "manufacturer": {
+          "id": "MF007",
+          "name": "ZestyZing",
+          "yearFounded": 2015,
+          "location": "United States",
+          "products": ["Hot Sauces", "Spices", "Dips"]
+        }
+      },
+      {
+        "id": "HS011",
+        "name": "Chipotle Adobo Sauce",
+        "description": "A rich and smoky sauce with a hint of sweetness.",
+        "scovilleRating": 50000,
+        "isLimited": true,
+        "isInStock": false,
+        "stockPrice": 6.49,
+        "sizeML": 300,
+        "productionDate": "2023-10-25",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/chipotleAdoboHotsauce.jpg",
+        "heatLevel": "Mild",
+        "taste": ["Smoky", "Sweet", "Rich"],
+        "peppers": ["Chipotle", "Ancho", "Poblano"],
+        "manufacturer": {
+          "id": "MF008",
+          "name": "SmokyDelights",
+          "yearFounded": 2000,
+          "location": "Mexico",
+          "products": ["Hot Sauces", "BBQ Sauces", "Dips"]
+        }
+      },
+      {
+        "id": "HS012",
+        "name": "Jalapeno Lime Sauce",
+        "description": "A tangy sauce with a mild heat and a zesty lime flavor.",
+        "scovilleRating": 8000,
+        "isLimited": false,
+        "isInStock": true,
+        "stockPrice": 4.99,
+        "sizeML": 200,
+        "productionDate": "2023-12-15",
+        "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/jalapenoLime.jpg",
+        "heatLevel": "Mild",
+        "taste": ["Tangy", "Zesty", "Mild"],
+        "peppers": ["Jalapeno", "Bell Pepper", "Anaheim"],
+        "manufacturer": {
+          "id": "MF009",
+          "name": "TangyTwist",
+          "yearFounded": 2010,
+          "location": "United States",
+          "products": ["Hot Sauces", "Salsas", "Dips"]
+    }
+    }
+]

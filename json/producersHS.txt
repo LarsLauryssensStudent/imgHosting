@@ -1,0 +1,65 @@
+[
+    {
+        "id": "MF001", 
+        "name": "TabascoFactory",
+        "yearFounded": 1868,
+        "location": "United States",
+        "products": ["Tabasco", "Peppers", "Mace"]
+    },
+    {
+        "id": "MF002",
+        "name": "FruitFusion",
+        "yearFounded": 1995,
+        "location": "Tropical Islands",
+        "products": ["Salsas", "Fruit Blends", "Smoothies"]
+    },
+    {
+        "id": "MF003",
+        "name": "SpiceFactory",
+        "yearFounded": 2000,
+        "location": "Mexico",
+        "products": ["Hot Sauces", "Spices", "Chili Powders"]
+    },
+    {
+        "id": "MF004",
+        "name": "SweetHeat",
+        "yearFounded": 2010,
+        "location": "Thailand",
+        "products": ["Sweet Sauces", "Chili Sauces", "Dips"]
+    },
+    {
+        "id": "MF005",
+        "name": "GarlicGoodness",
+        "yearFounded": 2005,
+        "location": "United States",
+        "products": ["Garlic Sauces", "Garlic Spices", "Dips"]
+    },
+    {
+        "id": "MF006",
+        "name": "HeatWave",
+        "yearFounded": 1998,
+        "location": "United States",
+        "products": ["Hot Sauces", "Pepper Extracts", "Chili Powders"]
+    },
+    {
+        "id": "MF007",
+        "name": "ZestyZing",
+        "yearFounded": 2015,
+        "location": "United States",
+        "products": ["Hot Sauces", "Spices", "Dips"]
+    },
+    {
+        "id": "MF008",
+        "name": "SmokyDelights",
+        "yearFounded": 2000,
+        "location": "Mexico",
+        "products": ["Hot Sauces", "BBQ Sauces", "Dips"]
+    },
+    {
+        "id": "MF009",
+        "name": "TangyTwist",
+        "yearFounded": 2010,
+        "location": "United States",
+        "products": ["Hot Sauces", "Salsas", "Dips"]
+    }
+]

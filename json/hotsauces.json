@@ -13,13 +13,15 @@
     "heatLevel": "Mild",
     "taste": ["Tangy", "Fresh", "Citrus"],
     "peppers": ["Jalapeno", "Habanero", "Tabasco"],
-    "manufacturer": {
+    "manufacturer":   {
       "id": "MF001",
       "name": "TabascoFactory",
       "yearFounded": 1868,
-      "location": "United States",
-      "products": ["Tabasco", "Peppers", "Mace"]
-    }
+      "CEO": "John Smith",
+      "location": "Verenigde Staten",
+      "products": ["Tabasco", "Peppers", "Mace"],
+      "description": "TabascoFactory, opgericht in 1868 door Edmund McIlhenny, is een beroemde producent van hete sauzen en kruiden gevestigd in de Verenigde Staten. Hun iconische Tabasco-saus wordt wereldwijd erkend."
+  }
   },
   {
     "id": "HS002",
@@ -35,13 +37,15 @@
     "heatLevel": "Hot",
     "taste": ["Bold", "Smoky", "Intense"],
     "peppers": ["Habanero", "Cayenne", "Ghost Pepper"],
-    "manufacturer": {
+    "manufacturer":   {
       "id": "MF001",
       "name": "TabascoFactory",
       "yearFounded": 1868,
-      "location": "United States",
-      "products": ["Tabasco", "Peppers", "Mace"]
-    }
+      "CEO": "John Smith",
+      "location": "Verenigde Staten",
+      "products": ["Tabasco", "Peppers", "Mace"],
+      "description": "TabascoFactory, opgericht in 1868 door Edmund McIlhenny, is een beroemde producent van hete sauzen en kruiden gevestigd in de Verenigde Staten. Hun iconische Tabasco-saus wordt wereldwijd erkend."
+  }
   },
   {
     "id": "HS003",
@@ -57,13 +61,15 @@
     "heatLevel": "Mild",
     "taste": ["Sweet", "Tangy", "Refreshing"],
     "peppers": ["Jalapeno", "Poblano", "Bell Pepper"],
-    "manufacturer": {
+    "manufacturer":   {
       "id": "MF002",
       "name": "FruitFusion",
       "yearFounded": 1995,
-      "location": "Tropical Islands",
-      "products": ["Salsas", "Fruit Blends", "Smoothies"]
-    }
+      "CEO": "Maria Rodriguez",
+      "location": "Tropische Eilanden",
+      "products": ["Salsas", "Fruit Blends", "Smoothies"],
+      "description": "FruitFusion, opgericht in 1995, is gespecialiseerd in het maken van heerlijke salsa's, fruitmixen en smoothies. Gevestigd op de Tropische Eilanden, brengt FruitFusion de smaken van het paradijs naar de wereld."
+  }
   },
   {
     "id": "HS004",
@@ -79,13 +85,15 @@
     "heatLevel": "Medium",
     "taste": ["Smoky", "Sweet", "Savory"],
     "peppers": ["Chipotle", "Ancho", "Poblano"],
-    "manufacturer": {
+    "manufacturer":   {
       "id": "MF002",
       "name": "FruitFusion",
       "yearFounded": 1995,
-      "location": "Tropical Islands",
-      "products": ["Salsas", "Fruit Blends", "Smoothies"]
-    }
+      "CEO": "Maria Rodriguez",
+      "location": "Tropische Eilanden",
+      "products": ["Salsas", "Fruit Blends", "Smoothies"],
+      "description": "FruitFusion, opgericht in 1995, is gespecialiseerd in het maken van heerlijke salsa's, fruitmixen en smoothies. Gevestigd op de Tropische Eilanden, brengt FruitFusion de smaken van het paradijs naar de wereld."
+  }
   },
 
   {
@@ -102,13 +110,15 @@
     "heatLevel": "Hot",
     "taste": ["Smoky", "Spicy", "Intense"],
     "peppers": ["Ghost Pepper", "Habanero", "Cayenne"],
-    "manufacturer": {
+    "manufacturer":  {
       "id": "MF003",
       "name": "SpiceFactory",
       "yearFounded": 2000,
+      "CEO": "Diego Hernandez",
       "location": "Mexico",
-      "products": ["Hot Sauces", "Spices", "Chili Powders"]
-    }
+      "products": ["Hot Sauces", "Spices", "Chili Powders"],
+      "description": "SpiceFactory, opgericht in 2000, biedt een scala aan hete sauzen, kruiden en chilipoeders. Gevestigd in Mexico, staat SpiceFactory bekend om zijn authentieke smaken en kruiden."
+  }
       },
       {
         "id": "HS006",
@@ -124,13 +134,15 @@
         "heatLevel": "Mild",
         "taste": ["Sweet", "Mild", "Tangy"],
         "peppers": ["Bell Pepper", "Jalapeno", "Anaheim"],
-        "manufacturer": {
+        "manufacturer":  {
           "id": "MF004",
           "name": "SweetHeat",
           "yearFounded": 2010,
+          "CEO": "Linda Nguyen",
           "location": "Thailand",
-          "products": ["Sweet Sauces", "Chili Sauces", "Dips"]
-        }
+          "products": ["Sweet Sauces", "Chili Sauces", "Dips"],
+          "description": "SweetHeat, opgericht in 2010, is gespecialiseerd in zoete sauzen, chilisauzen en dips. Gevestigd in Thailand, brengt SweetHeat een combinatie van zoete en pittige smaken naar liefhebbers van pikant eten."
+      }
       },
       {
         "id": "HS007",
@@ -146,13 +158,15 @@
         "heatLevel": "Medium",
         "taste": ["Garlicky", "Spicy", "Tangy"],
         "peppers": ["Red Chili", "Cayenne", "Serrano"],
-        "manufacturer": {
+        "manufacturer":   {
           "id": "MF005",
           "name": "GarlicGoodness",
           "yearFounded": 2005,
-          "location": "United States",
-          "products": ["Garlic Sauces", "Garlic Spices", "Dips"]
-        }
+          "CEO": "Sophie Johnson",
+          "location": "Verenigde Staten",
+          "products": ["Garlic Sauces", "Garlic Spices", "Dips"],
+          "description": "GarlicGoodness, opgericht in 2005, biedt een verscheidenheid aan knoflooksaus, knoflookkruiden en dips. Gevestigd in de Verenigde Staten, brengt GarlicGoodness de heerlijke smaak van knoflook naar verschillende gerechten."
+      }
       },
       {
         "id": "HS008",
@@ -168,13 +182,15 @@
         "heatLevel": "Extreme",
         "taste": ["Spicy", "Smoky", "Intense"],
         "peppers": ["Carolina Reaper", "Ghost Pepper", "Scorpion Pepper"],
-        "manufacturer": {
+        "manufacturer":   {
           "id": "MF006",
           "name": "HeatWave",
           "yearFounded": 1998,
-          "location": "United States",
-          "products": ["Hot Sauces", "Pepper Extracts", "Chili Powders"]
-        }
+          "CEO": "Mark Thompson",
+          "location": "Verenigde Staten",
+          "products": ["Hot Sauces", "Pepper Extracts", "Chili Powders"],
+          "description": "HeatWave, opgericht in 1998, is gespecialiseerd in hete sauzen, peperextracten en chilipoeders. Gevestigd in de Verenigde Staten, brengt HeatWave een golf van hitte naar culinaire liefhebbers over de hele wereld."
+      }
       },
       {
         "id": "HS009",
@@ -190,13 +206,15 @@
         "heatLevel": "Medium",
         "taste": ["Sweet", "Tropical", "Spicy"],
         "peppers": ["Habanero", "Jalapeno", "Bell Pepper"],
-        "manufacturer": {
+        "manufacturer":  {
           "id": "MF002",
           "name": "FruitFusion",
           "yearFounded": 1995,
-          "location": "Tropical Islands",
-          "products": ["Salsas", "Fruit Blends", "Smoothies"]
-        }
+          "CEO": "Maria Rodriguez",
+          "location": "Tropische Eilanden",
+          "products": ["Salsas", "Fruit Blends", "Smoothies"],
+          "description": "FruitFusion, opgericht in 1995, is gespecialiseerd in het maken van heerlijke salsa's, fruitmixen en smoothies. Gevestigd op de Tropische Eilanden, brengt FruitFusion de smaken van het paradijs naar de wereld."
+      }
       },
       {
         "id": "HS010",
@@ -212,13 +230,15 @@
         "heatLevel": "Mild",
         "taste": ["Zesty", "Citrusy", "Spicy"],
         "peppers": ["Cayenne", "Bell Pepper", "Poblano"],
-        "manufacturer": {
+        "manufacturer":  {
           "id": "MF007",
           "name": "ZestyZing",
           "yearFounded": 2015,
-          "location": "United States",
-          "products": ["Hot Sauces", "Spices", "Dips"]
-        }
+          "CEO": "Emily Chen",
+          "location": "Verenigde Staten",
+          "products": ["Hot Sauces", "Spices", "Dips"],
+          "description": "ZestyZing, opgericht in 2015, biedt een verscheidenheid aan hete sauzen, kruiden en dips. Gevestigd in de Verenigde Staten, brengt ZestyZing een levendige en pittige smaak naar elke maaltijd."
+      }
       },
       {
         "id": "HS011",
@@ -238,9 +258,11 @@
           "id": "MF008",
           "name": "SmokyDelights",
           "yearFounded": 2000,
+          "CEO": "Carlos Martinez",
           "location": "Mexico",
-          "products": ["Hot Sauces", "BBQ Sauces", "Dips"]
-        }
+          "products": ["Hot Sauces", "BBQ Sauces", "Dips"],
+          "description": "SmokyDelights, opgericht in 2000, biedt een scala aan hete sauzen, BBQ-sauzen en dips. Gevestigd in Mexico, staat SmokyDelights bekend om zijn rokerige smaken en heerlijke sauzen."
+      }
       },
       {
         "id": "HS012",
@@ -260,8 +282,10 @@
           "id": "MF009",
           "name": "TangyTwist",
           "yearFounded": 2010,
-          "location": "United States",
-          "products": ["Hot Sauces", "Salsas", "Dips"]
-    }
+          "CEO": "Laura Hernandez",
+          "location": "Verenigde Staten",
+          "products": ["Hot Sauces", "Salsas", "Dips"],
+          "description": "TangyTwist, opgericht in 2010, biedt een scala aan hete sauzen, salsa's en dips. Gevestigd in de Verenigde Staten, brengt TangyTwist een verfrissende en pittige draai aan traditionele smaken."
+      }
     }
 ]

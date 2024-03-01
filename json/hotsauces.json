@@ -33,7 +33,7 @@
     "stockPrice": 9.99,
     "sizeML": 250,
     "productionDate": "2023-10-15",
-    "imageURL": "https://github.com/LarsLauryssensStudent/imgHosting/blob/7876c8ee25d165d1d42838c5c00286730e9bd940/images/spicyHabaneroSauce.jpg",
+    "imageURL": "https://raw.githubusercontent.com/LarsLauryssensStudent/imgHosting/7876c8ee25d165d1d42838c5c00286730e9bd940/images/spicyHabaneroSauce.jpg",
     "heatLevel": "Hot",
     "taste": ["Bold", "Smoky", "Intense"],
     "peppers": ["Habanero", "Cayenne", "Ghost Pepper"],
